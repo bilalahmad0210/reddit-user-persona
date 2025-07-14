@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+*.log
+config/reddit_config.json
+.env
+.vscode
+env/

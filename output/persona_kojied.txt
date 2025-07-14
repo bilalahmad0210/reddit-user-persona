@@ -1,0 +1,69 @@
+
+
+---
+### Chunk 1
+
+---
+# Reddit Persona: u/kojied
+
+**Age**: 28-35 (Likely a millennial or older Gen Z based on references to Gen Z movies and familiarity with older technologies like VHS tapes, while also showing an understanding of and engagement with newer technologies like VisionOS and AI.)
+**Profession**: Software Developer (Specifically iOS and VisionOS development;  indicated by posts and comments in r/visionosdev and r/iOSdev.)
+**Location**: New York City (Frequent mentions of NYC neighborhoods and subreddits like r/newyorkcity, r/AskNYC, r/NYCbike, and r/FoodNYC.)
+**Personality Type**: INTJ or similar (Analytical, strategic thinking evident in comments on Civ V, options trading, and AI development.  Shows signs of introversion through comments about preferring quiet nights and discomfort in crowds.)
+**Archetype**: The Tech-Savvy Urbanite
+
+---
+
+### Motivations & Preferences
+Driven by technological innovation, career advancement, and exploring new experiences within the context of NYC life.  This user is interested in AR/VR development, financial markets, and enjoys analyzing complex systems.
+
+> _"I'm building apps in VisionOS" — r/visionosdev_
+> _"I've been trading options for the past month or so, and have made good money." — r/stocks_
+> _"I like to explore…" — Implied through various posts and comments across subreddits._
+
+---
+
+### Personality Traits
+- **Analytical:**  Constantly seeks to understand and dissect complex topics, evident in their posts on options trading (r/stocks, r/options, r/wallstreetbets), and their detailed analysis of  AI and VisionOS (r/VisionPro, r/visionosdev).
+  >_"I've been trying to actually use the Vision Pro to get some work done…" — r/VisionPro"_
+- **Strategic:** Demonstrates forward-thinking and planning skills, particularly in their comments on Civ V (r/civ5) and their approach to financial investments.
+  >_"The optimal strategy I've discovered is the following…" — r/civ5"_
+- **Curious:** Shows a strong desire to learn and explore new technologies, evident in numerous posts and comments related to VisionOS and AI.
+  >_"Best blogs, tutorial channels to learn" — r/visionosdev_"
+- **Independent:** Prefers to work independently, evident in their solo explorations of NYC and their focus on individual projects.
+  >_"I usually take the time to leave quality comments…" — r/seduction"_
+- **Introverted:** Expresses a dislike for overly crowded environments and prefers quieter activities.
+  >_"I was at the wrong party. I felt violated" — r/newyorkcity"_
+- **Ambitious:** Demonstrates a drive for career success and financial gain through their work in tech and investment strategies.
+  >_"I want to get better at VisionOS dev." — r/visionosdev"_
+
+---
+
+### Habits & Interests
+- Engages often in r/VisionPro, r/visionosdev, r/civ5,  r/stocks, and r/newyorkcity.
+- Asks questions about VisionOS development, options trading strategies, and NYC life.
+- Comments reflect a pragmatic and analytical attitude, often offering solutions and insights.
+
+---
+
+### Frustrations & Pain Points
+- **Discomfort in crowds:**  Expresses strong negative feelings towards being surrounded by large groups of young people.
+  >_"I was at the wrong party. I felt violated" — r/newyorkcity"_
+- **H1B visa challenges:** Shows concern and frustration with the H1B visa process.
+  >"H1B holders, what are your thoughts on the narrative that you are being exploited?" — r/AskReddit_
+- **Limitations of Vision Pro:** Expresses disappointment with the current functionality of Apple Vision Pro regarding development tools.
+  >_"Also where’s Xcode? If Apple wants AVP to be a ‘work device’, they gotta have at least Xcode right?" — r/VisionPro"_
+- **Inconsistent refereeing in NBA:** Shows frustration with inconsistent officiating in the NBA.
+  >"What needs to happen for the league to review the inconsistencies of the refs?" — r/nba"_
+
+---
+
+### Goals & Needs
+- Improve VisionOS development skills.
+>_"I want to get better at VisionOS dev." — r/visionosdev"_
+- Advance their career in software development. (implied)
+- Successfully navigate the H1B visa process. (implied)
+- Find better ways to manage their investments. (implied)
+
+
+---
