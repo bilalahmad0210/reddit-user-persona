@@ -1,4 +1,4 @@
-# 🧠 Reddit User Persona Generator — Amlgo Labs Assignment
+# 🧠 Reddit User Persona Generator 
 
 An intelligent, LLM-powered tool that scrapes a Reddit user's public posts and comments, then generates a psychologically grounded **User Persona Profile** using Google Gemini (or OpenAI GPT-4). It includes **citations from posts**, **motivations**, **personality traits**, and more. This project is part of the AI Engineering Internship evaluation at **Amlgo Labs**.
 
@@ -145,7 +145,7 @@ output/persona_kojied.md
 
 ## 🙋‍♂️ Author
 
-Developed by **Bilal Ahmad** for the **AI Engineer Internship Task** at **Amlgo Labs**.
+Developed by **Bilal Ahmad** 
 
 Reach out: [LinkedIn](https://linkedin.com/in/bilalahmad0210)  
 GitHub: [@bilalahmad0210](https://github.com/bilalahmad0210)
