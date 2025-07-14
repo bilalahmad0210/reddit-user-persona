@@ -1,7 +1,6 @@
 # 🧠 Reddit User Persona Generator 
 
-An intelligent, LLM-powered tool that scrapes a Reddit user's public posts and comments, then generates a psychologically grounded **User Persona Profile** using Google Gemini (or OpenAI GPT-4). It includes **citations from posts**, **motivations**, **personality traits**, and more. This project is part of the AI Engineering Internship evaluation at **Amlgo Labs**.
-
+An intelligent, LLM-powered tool that scrapes a Reddit user's public posts and comments, then generates a psychologically grounded **User Persona Profile** using Google Gemini (or OpenAI GPT-4). It includes **citations from posts**, **motivations**, **personality traits**, and more.
 ---
 
 ## 🔧 Project Architecture & Flow
@@ -13,9 +12,9 @@ Reddit User URL → Reddit Scraper (PRAW+Pushshift)
                          ↓
       Prompt Construction with Persona Template
                          ↓
-          🤠 Gemini / GPT-4 API Call
+           Gemini / GPT-4 API Call
                          ↓
-    📄 Persona Output (.txt / .md with Citations)
+     Persona Output (.txt / .md with Citations)
 ```
 
 - `main.py`: Entry point for scraping + persona generation.
@@ -135,7 +134,7 @@ output/persona_kojied.md
 
 ---
 
-## 🚀 Future Ideas
+##  Future Ideas
 
 - Web UI via Gradio or Streamlit
 - Persona clustering from multiple users
@@ -143,7 +142,7 @@ output/persona_kojied.md
 
 ---
 
-## 🙋‍♂️ Author
+##  Author
 
 Developed by **Bilal Ahmad** 
 
