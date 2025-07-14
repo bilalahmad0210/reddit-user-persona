@@ -133,7 +133,15 @@ output/persona_kojied.md
 | API fallback support    | ✅ Optional (OpenAI or Gemini) |
 
 ---
+---
 
+## ⚠️ Limitations & Considerations
+
+-  **API Quota**: Using Gemini or OpenAI APIs requires free tier access or a paid API key. Free limits may restrict output length or cause 429 errors.
+-  **Paid Usage**: OpenAI GPT-4 often requires a paid account. Gemini may also require billing setup for extended usage.
+-  **Offline Inference**: Running this locally with your own LLM (e.g., Mistral or LLaMA) is possible but requires significant CPU/GPU resources (~16GB+ RAM recommended).
+- 🗃 **Data Privacy**: Only public Reddit data is accessed. Avoid analyzing sensitive or private user data without consent.
+"""
 ##  Future Ideas
 
 - Web UI via Gradio or Streamlit
